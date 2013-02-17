@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GUSTAVO-PC</Machine>
+    <WindowsUser>Gustavo</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>6372EA193CC44564F70F4E1E46176EA4A69FF1629E00FFF72CF061207DFC7A5A</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f0581bec-1336-4126-af29-f37f97515c9d_1.0.0.0_neutral__jg5rmz0h9x2g0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f0581bec-1336-4126-af29-f37f97515c9d_jg5rmz0h9x2g0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f0581bec-1336-4126-af29-f37f97515c9d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Gustavo</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Projetos\10004-MetroTest\MetroTest\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-17T22:10:02.346</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\bin\Debug\MetroTest.exe">
+      <PackagePath>MetroTest.exe</PackagePath>
+      <Modified>2013-02-17T22:10:30.469</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\bin\Debug\MetroTest.pdb">
+      <PackagePath>MetroTest.pdb</PackagePath>
+      <Modified>2013-02-17T22:10:30.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\UserControls\bin\Debug\UserControls.pdb">
+      <PackagePath>UserControls.pdb</PackagePath>
+      <Modified>2013-02-17T22:10:29.375</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\UserControls\bin\Debug\UserControls.dll">
+      <PackagePath>UserControls.dll</PackagePath>
+      <Modified>2013-02-17T22:10:29.401</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T22:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T22:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T22:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T22:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-17T00:52:35.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T18:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-02-17T20:04:57.420</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\UserControls\bin\Debug\GraphChart.xaml">
+      <PackagePath>UserControls\GraphChart.xaml</PackagePath>
+      <Modified>2013-02-17T22:10:27.485</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Projetos\10004-MetroTest\MetroTest\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-17T22:10:01.741</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

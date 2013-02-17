@@ -1,0 +1,2 @@
+D:\Projetos\10004-MetroTest\MetroTest\10004-MetroTest.csproj;neutral
+D:\Projetos\10004-MetroTest\UserControls\UserControls.csproj;neutral
